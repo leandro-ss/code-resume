@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Local editor files
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Obsidian workspace files
+.obsidian/
+.trash/
+
+# Local environment and secret files
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.pid
+*.tmp
+tmp/
